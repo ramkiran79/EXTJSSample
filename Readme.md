@@ -30,7 +30,7 @@ Then install the Ext JS app generator CLI command ext-gen. This will allow you t
 
 npm install -g @sencha/ext-gen
 
-Step 4:install Node_module
+Step 4: install Node_module
 To install Sencha Cmd globally
 To add the sencha command to your system install this module globally:
 
@@ -50,7 +50,7 @@ ext-gen app -a - This generates an application called MyApp. Or Issue command as
 ext-gen app ExtjsSampleApp
 Or Download code from https://github.com/ramkiran79/EXTJSSample.git
 
-Step 6:Start Application
+Step 6: Start Application
 type "cd extjs-sample-app" then "npm start" or "npm run desktop"
 to run the development build and open your new application in a web browser
 
