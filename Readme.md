@@ -1,4 +1,4 @@
-# ExtjsSampleApp application# EXTJSSample
+# Extjs Sample application
 
 
 
