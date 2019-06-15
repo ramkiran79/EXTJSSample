@@ -12,11 +12,13 @@ Node 8.11+
 NPM 6+
 Java 8 & 11
 Creating Your First Ext JS Application
+
 Step 1: Sign Up
 To gain access to the Sencha NPM repository.
 
 Start a free trial of Ext JS.
 Purchase Ext JS.
+
 Step 2: Login to the NPM repository
 Once you've signed up or purchased the product, start by logging into the repository with the @sencha scope.
 
@@ -27,6 +29,7 @@ Step 3: Install the App Generator CLI
 Then install the Ext JS app generator CLI command ext-gen. This will allow you to quickly create an Ext JS application.
 
 npm install -g @sencha/ext-gen
+
 Step 4:install Node_module
 To install Sencha Cmd globally
 To add the sencha command to your system install this module globally:
